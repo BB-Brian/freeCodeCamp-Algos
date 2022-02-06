@@ -1,9 +1,11 @@
 import './App.css';
-import { LightModeIcon } from '@material-ui/icons';
+import Header from "./components/layout/Header/Header";
+
 function App() {
   return (
     <div className="App">
-      <LightModeIcon />
+      <Header />
+      hello
     </div>
   );
 }
