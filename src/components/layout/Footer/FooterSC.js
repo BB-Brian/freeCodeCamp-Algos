@@ -4,4 +4,4 @@ const FooterSC = styled.div`
   background-color: cyan;
 `;
 
-export default FooterSC;
+export { FooterSC };

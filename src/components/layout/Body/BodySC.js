@@ -14,4 +14,4 @@ const BodySC = styled.div`
   }
 `;
 
-export default BodySC;
+export { BodySC };
