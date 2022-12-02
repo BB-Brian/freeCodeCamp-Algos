@@ -1,4 +1,6 @@
 import React from "react";
+import LeftPanelSC from "./LeftPanelSC";
+
 const LeftPanel = () => {
   console.log("left panel");
   return (
